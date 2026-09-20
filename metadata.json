@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Motion TV - Horizon & Lotus Nexus Studio",
+  "description": "Fluid Motion TV Horizon Engine with Dragon Nine clock, Tide Oracle, Kimi & Timi teleprompter, and Lotus Nexus Piano 4K generative harmonic visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
